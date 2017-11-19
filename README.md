@@ -1,6 +1,6 @@
 
 
-## Evento: Revogação das prises de Picciani, Paulo Melo e Edson Albertassi
+## Evento: Revogação das prisões de Picciani, Paulo Melo e Edson Albertassi
 
 * Andre Correa (DEM)
 * André Ceciliano (PT)
@@ -20,7 +20,7 @@
 * Geraldo Pudim (PMDB)
 * Gustavo Tutuca (PMDB)
 * Iranildo Campos (PSD)
-* Jair Bittencourt
+* Jair Bittencourt (PP)
 * Janio Mendes (PDT)
 * João Peixoto (PSDC)
 * Luiz Martins (PDT)
@@ -45,3 +45,7 @@
 ## Fonte
 
 https://g1.globo.com/rj/rio-de-janeiro/noticia/alerj-revoga-prisoes-de-jorge-picciani-paulo-melo-e-edson-albertassi.ghtml
+
+## Transcrição da sessão
+
+http://www2.alerj.rj.gov.br/lotus_notes/default.asp?id=57&url=L3RhcWFsZXJqLm5zZi81ZDUwZDM5YmQ5NzYzOTFiODMyNTY1MzYwMDZhMjUwMi8wMGNmNjc3OGQzZDdiMmJlODMyNTgxZGIwMDYyZjNjZj9PcGVuRG9jdW1lbnQ=
